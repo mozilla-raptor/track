@@ -1,0 +1,41 @@
+{
+  "name": "raptor-track",
+  "version": "1.0.0",
+  "description": "Regression tracking for @mozilla/raptor",
+  "keywords": [
+    "firefox-os",
+    "gaia",
+    "performance",
+    "b2g",
+    "regression"
+  ],
+  "main": "lib/index.js",
+  "author": {
+    "name": "Eli Perelman",
+    "email": "eli@eliperelman.com"
+  },
+  "bugs": {
+    "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox%20OS&component=Gaia%3A%3APerformanceTest",
+    "email": "eli@mozilla.com"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "influent": "0.4.2",
+    "ramda": "0.18.0"
+  },
+  "directories": {},
+  "homepage": "https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor",
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "eliperelman",
+      "email": "eli@eliperelman.com"
+    },
+    {
+      "name": "rwood-moz",
+      "email": "rwood@mozilla.com"
+    }
+  ],
+  "repository": "mozilla-raptor/track",
+  "scripts": {}
+}
